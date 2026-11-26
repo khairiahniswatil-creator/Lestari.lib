@@ -1,0 +1,6 @@
+{
+  "name": "Pustaka Lestari — Perencanaan Perpustakaan Digital Lingkungan",
+  "description": "Dokumen perencanaan komprehensif dan prototipe interaktif perpustakaan digital bertema lingkungan hidup, mencakup visi kurasi, fitur ekologi, strategi koleksi legal gratis, dan alur pengelolaan.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
